@@ -20,6 +20,41 @@ Counts always appeared immediately before the corresponding digit.
 
 No digit and count were repeated or overlapped.
 
+## Packages
+
+No packages were used during implementation.
+
 ## Results
 
-After generating all date numbers on a range from 1 to 11, the following results feature dates ranging from 1 to 2^24.
+After generating all date numbers, the following results feature dates ranging from 1 to 2^24.
+
+    22
+    4444
+    113133
+    113331
+    222442
+    223233
+    223332
+    224224
+    224444
+    242242
+    330030
+    331131
+    332232
+    334434
+    335535
+    336636
+    337737
+    338838
+    339939
+    442244
+    443334
+    443433
+    444422
+    553335
+    553533
+    ...
+    16333115
+    16333117
+    16333118
+    16333119
