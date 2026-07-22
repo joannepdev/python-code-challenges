@@ -44,6 +44,14 @@ for Player 2, such, that:
     R1 + P1 + S1 = N
     R2 + P2 + S2 = N
 
+## Packages
+
+- Statistics
+- Counter (imported from built-in Collection module)
+- Matplotlib
+- Pandas
+
+
 ## Results
 ### Average Score
 
