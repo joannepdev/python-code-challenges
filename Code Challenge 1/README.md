@@ -1,6 +1,6 @@
 # Code Challenge 1 - Longest Increasing Path
 
-This code challenge demonstrates a variant of the Longest Increasing Path algorithm.
+This code challenge demonstrates a matrix and path generator, based on the Longest Increasing Path algorithm.
 
 Given a matrix of integers of mxn dimensions, the task is to find the length of the longest increasing path within the matrix.
 Starting from any cell, movement to adjacent cells can be achieved in one of four possible directions:
