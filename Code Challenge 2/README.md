@@ -151,3 +151,63 @@ For Player 1, convergence of average score is:
 For Player 2, convergence of average score is:
 
 ![Player 2 Average Score Convergence](image-4.png)
+
+## Example
+
+On a defined number of ten (10) rounds, the average score defined for each player is:
+
+    Player 1 average:  0.0988
+    Player 2 average:  -0.0988
+
+The standard deviation for each player is:
+
+    Player 1 standard deviation:  2.602636342555978
+    Player 2 standard deviation:  2.602636342555978
+
+The distribution of scores for each player across all simulations is:
+
+    Counter({1: 4247, -2: 3311, 4: 1582, -5: 725, 7: 116, -8: 19})
+
+for Player 1, and:
+
+    Counter({-1: 4247, 2: 3311, -4: 1582, 5: 725, -7: 116, 8: 19})
+
+for Player 2.
+
+The best sequence for each player, across all simulations is:
+
+    ['P', 'R', 'S', 'S', 'P', 'R', 'P', 'P', 'S', 'P']
+
+for Player 1, and:
+
+    ['P', 'R', 'S', 'R', 'S', 'P', 'R', 'S', 'P', 'P']
+
+for Player 2.
+
+The best score for each player is:
+    
+    Best P1 score: 7
+
+for Player 1, and:
+
+    Best P2 score: 8
+
+for Player 2.
+
+Therefore, a table displaying best scores, sequences and frequencies was additionally created.
+
+     Player  Best Score                   Best Sequence  Frequency
+0  Player 1           7  [S, R, S, R, P, P, P, S, P, P]          5
+1  Player 2           8  [S, S, P, P, P, R, R, P, R, S]          4
+
+### Visual Representation
+
+![Player 1 Score Distribution](<Screenshot 2026-07-24 091420.png>)
+
+![Player 2 Score Distribution](<Screenshot 2026-07-24 091426.png>)
+
+![Sensitivity Analysis](<Screenshot 2026-07-24 091433.png>)
+
+![Player 1 Average Score Convergence](<Screenshot 2026-07-24 091440.png>)
+
+![Player 2 Average Score Convergence](<Screenshot 2026-07-24 091447.png>)
