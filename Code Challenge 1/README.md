@@ -89,5 +89,5 @@ On a random matrix of 11x17 dimensions, the path length is 208.
     [41, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 27]
     [40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28]
 
-The matrix, given a defined number of dimensions (m=10, n=10) followed the recursive clockwise spiral `(spiral within spirals)` pattern.
+The matrix, given a defined number of dimensions (m=11, n=17) followed the recursive clockwise spiral `(spiral within spirals)` pattern.
 
