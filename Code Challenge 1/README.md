@@ -37,6 +37,8 @@ The matrix, given a defined number of dimensions (m=10, n=10) followed the clock
 
 ### m and n being a different number
 
+# Example 1
+
 On a random matrix of 20x9 dimensions, the path length is 180.
 
 ### Matrix
@@ -64,8 +66,28 @@ On a random matrix of 20x9 dimensions, the path length is 180.
 
 The matrix, given a defined number of dimensions (m=10, n=10) followed the recursive inward spiral (layered spiral) filling pattern.
 
+# Example 2
 
+On a random matrix of 11x17 dimensions, the path length is 208.
 
+### Matrix
 
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+    [54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 14]
+    [53, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 66, 15]
+    [52, 99, 138, 139, 140, 141, 142, 143, 144, 145, 110, 67, 16]
+    [51, 98, 137, 168, 169, 170, 171, 172, 173, 146, 111, 68, 17]
+    [50, 97, 136, 167, 190, 191, 192, 193, 174, 147, 112, 69, 18]
+    [49, 96, 135, 166, 189, 204, 205, 194, 175, 148, 113, 70, 19]
+    [48, 95, 134, 165, 188, 203, 206, 195, 176, 149, 114, 71, 20]
+    [47, 94, 133, 164, 187, 202, 207, 196, 177, 150, 115, 72, 21]
+    [46, 93, 132, 163, 186, 201, 208, 197, 178, 151, 116, 73, 22]
+    [45, 92, 131, 162, 185, 200, 199, 198, 179, 152, 117, 74, 23]
+    [44, 91, 130, 161, 184, 183, 182, 181, 180, 153, 118, 75, 24]
+    [43, 90, 129, 160, 159, 158, 157, 156, 155, 154, 119, 76, 25]
+    [42, 89, 128, 127, 126, 125, 124, 123, 122, 121, 120, 77, 26]
+    [41, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 27]
+    [40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28]
 
+The matrix, given a defined number of dimensions (m=10, n=10) followed the recursive clockwise spiral `(spiral within spirals)` pattern.
 
