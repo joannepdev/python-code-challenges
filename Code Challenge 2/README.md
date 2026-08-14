@@ -197,8 +197,8 @@ for Player 2.
 Therefore, a table displaying best scores, sequences and frequencies was additionally created.
 
      Player  Best Score                   Best Sequence  Frequency
-0  Player 1           7  [S, R, S, R, P, P, P, S, P, P]          5
-1  Player 2           8  [S, S, P, P, P, R, R, P, R, S]          4
+    0  Player 1           7  [S, R, S, R, P, P, P, S, P, P]          5
+    1  Player 2           8  [S, S, P, P, P, R, R, P, R, S]          4
 
 ### Visual Representation
 
